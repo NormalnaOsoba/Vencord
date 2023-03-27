@@ -355,7 +355,7 @@ export default definePlugin({
                     type: "customEmoji",
                     jumboable: content.length === 1,
                     animated: fakeNitroMatch[2] === "gif",
-                    name: ":FakeNitroEmoji:",
+                    name: ":ChmuraMaMałego:",
                     emojiId: fakeNitroMatch[1]
                 }} />
             ));
